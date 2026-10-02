@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class zadaniestalina2 {
+public class zadanie2 {
     public static void main(String[] args) {
         Scanner volodia = new Scanner(System.in);
         Random random = new Random();
